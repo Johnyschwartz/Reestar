@@ -1,0 +1,53 @@
+body {
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.page-title {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.page-title__h1 {
+  font-weight: bolder;
+}
+.img-container__img {
+  width: 300px;
+  height: 400px;
+}
+.img-container {
+  width: 300px;
+  margin-top: 40px;
+  border: solid black 2px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 5px;
+  margin: 10px;
+}
+.img-container__butn {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border: none;
+}
+.page-container {
+  text-align: center;
+  margin-top: 20px;
+}
+.Contact-page {
+  text-align: center;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.Contact-page__p {
+  background-color: yellow;
+  color: black;
+  width: 40%;
+  margin-left: 31%;
+}
+.Contact-page__table {
+  display: inline-block;
+}
